@@ -1,0 +1,22 @@
+ls (list) - wypisz zawartość katalogu
+cd NAME (change directory) - otwórz katalogu
+cd .. - wróć do katalogu wyżej
+pwd - nazwa bierzącego katalogu
+mkdir NAME - utwórz katalogu
+touch NAME - utwórz plik
+cat NAME - wypisz zawartość pliku
+echo "TEXT" >> NAME - wpisz TEXT do pliku NAME\
+rm NAME - usuń plik
+
+===================================================
+
+%katalog domowy%
+ |--cpp
+     |--plik.txt
+     |--part1
+         |--plik1.txt
+         |--plik2.txt
+
+zawartość pliku plik.txt: ala ma kota
+zawartość pliku plik1.txt: ala nie ma kota
+zawartość pliku plik2.txt: kot ma alę
